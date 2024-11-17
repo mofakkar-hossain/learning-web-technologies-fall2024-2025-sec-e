@@ -1,0 +1,20 @@
+<student>    
+    <student sr="1">
+        <name> alamin </name>
+        <age>12</age>
+        <email>alamin@aiub.edu</email>
+        <add>
+            <house>3</house>
+            <road>2</road>
+        </add>
+    </student>
+    <student sr="1">
+        <name> alamin </name>
+        <age>12</age>
+        <email>alamin@aiub.edu</email>
+        <add>
+            <house>3</house>
+            <road>2</road>
+        </add>
+    </student>
+</student>    
